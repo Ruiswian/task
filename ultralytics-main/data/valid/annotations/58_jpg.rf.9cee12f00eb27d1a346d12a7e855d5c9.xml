@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>58_jpg.rf.9cee12f00eb27d1a346d12a7e855d5c9.jpg</filename>
+	<path>58_jpg.rf.9cee12f00eb27d1a346d12a7e855d5c9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>452</xmax>
+			<ymin>191</ymin>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

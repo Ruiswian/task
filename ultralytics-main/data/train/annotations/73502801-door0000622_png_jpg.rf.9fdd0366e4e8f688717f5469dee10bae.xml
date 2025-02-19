@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>73502801-door0000622_png_jpg.rf.9fdd0366e4e8f688717f5469dee10bae.jpg</filename>
+	<path>73502801-door0000622_png_jpg.rf.9fdd0366e4e8f688717f5469dee10bae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>575</xmax>
+			<ymin>34</ymin>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

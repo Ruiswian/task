@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>a2_272_jpg.rf.1b563e3a62c608e3268c5fef00f5fef9.jpg</filename>
+	<path>a2_272_jpg.rf.1b563e3a62c608e3268c5fef00f5fef9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>641</xmax>
+			<ymin>4</ymin>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

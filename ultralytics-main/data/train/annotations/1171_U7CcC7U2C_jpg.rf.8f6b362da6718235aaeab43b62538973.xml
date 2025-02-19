@@ -1,0 +1,19 @@
+<annotation>
+	<folder></folder>
+	<filename>1171_U7CcC7U2C_jpg.rf.8f6b362da6718235aaeab43b62538973.jpg</filename>
+	<path>1171_U7CcC7U2C_jpg.rf.8f6b362da6718235aaeab43b62538973.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+		<tags>
+			<tag>QR</tag>
+		</tags>
+	</metadata>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bus-86-_jpg.rf.607a7b7e012473f644359c49de193f00.jpg</filename>
+	<path>bus-86-_jpg.rf.607a7b7e012473f644359c49de193f00.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>359</xmax>
+			<ymin>169</ymin>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

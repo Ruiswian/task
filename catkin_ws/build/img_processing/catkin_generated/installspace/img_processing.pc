@@ -1,0 +1,8 @@
+prefix=/home/ruiswian/catkin_ws/install
+
+Name: img_processing
+Description: Description of img_processing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

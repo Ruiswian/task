@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>perspectiveimage025_jpg.rf.00703706d93dd36f9dd45f0504a64217.jpg</filename>
+	<path>perspectiveimage025_jpg.rf.00703706d93dd36f9dd45f0504a64217.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QRCode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>226</xmin>
+			<xmax>352</xmax>
+			<ymin>178</ymin>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
