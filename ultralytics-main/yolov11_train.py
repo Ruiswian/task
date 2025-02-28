@@ -8,5 +8,5 @@ if __name__ == '__main__':
                 single_cls=True,  # 多类别设置False
                 batch=4,
                 workers=8,
-                device='cpu',
+                device='0',
                 )
